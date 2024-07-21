@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://corotone.github.io/sitemap
+Sitemap: https://corotone.github.io/app/sitemap
+Sitemap: https://corotone.github.io/assets/sitemap
+Sitemap: https://corotone.github.io/css/sitemap
+Sitemap: https://corotone.github.io/includes/sitemap
+Sitemap: https://corotone.github.io/item/sitemap
+Sitemap: https://corotone.github.io/src/sitemap
